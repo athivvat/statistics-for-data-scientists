@@ -1,2 +1,3 @@
-# statistics-for-data-scientists
-Practical Statistics for Data Scientists with Python 🧮👩‍🔬
+# Statistics for Data Scientists
+Practical Statistics for Data Scientists with Python
+
